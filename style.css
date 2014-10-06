@@ -1,0 +1,17 @@
+#div_display_col1{
+font-weight:normal;
+font-family: "Arial", "Lucida Grande", sans-serif;
+color: white;
+font-size: 50px;
+background:#b1a1c6;
+text-align:center;
+}
+
+#div_display_col2{
+font-weight:normal;
+font-family: "Arial", "Lucida Grande", sans-serif;
+color: black;
+font-size: 50px;
+background:white;
+text-align:center;
+}
