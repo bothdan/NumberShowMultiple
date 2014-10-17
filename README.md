@@ -2,7 +2,7 @@ NumberShowMultiple
 ==================
 
 display:
-http://rocar.freeiz.com/nrshow/index.php
+http://rocar.freeiz.com/nrshow/b.php
 
 input:
-http://rocar.freeiz.com/nrshow/input.php
+http://rocar.freeiz.com/nrshow/a.php
